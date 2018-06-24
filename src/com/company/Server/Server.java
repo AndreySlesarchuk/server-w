@@ -1,7 +1,7 @@
 /**
 сервисы сервера
 */
-package projects.Server;
+package com.company.Server;
 
 import java.net.DatagramSocket;
 import java.net.SocketException;

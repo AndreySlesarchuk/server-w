@@ -1,7 +1,7 @@
 /**
   Класс для запуска сервера
 */
-package projects.server;
+package com.company.Server;
 
 public class ServerMain {
 
