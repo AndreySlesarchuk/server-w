@@ -1,2 +1,2 @@
 # server-w
-server test
+server message test
